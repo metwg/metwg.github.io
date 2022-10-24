@@ -1,0 +1,70 @@
+.Nama {
+    width: 0px;
+    height: 0px;
+
+    background: #e8e807;
+    border-color: rgb(0, 0, 0);
+
+    font-family: 'arial';
+    text-align: center;
+    position: relative;
+    left: 47%;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 24px;
+        line-height: 29px;
+        color: #FFFFFF;
+}
+
+.Bio {
+    width: 0px;
+    height: 0px;
+
+    background: #29e7cd;
+    border-color: #ffff;
+
+    font-family: 'arial';
+    position: relative;
+    left: 50%;
+        font-style: normal;
+        font-weight: 800;
+        font-size: 24px;
+        line-height: 29px;
+        color: #FFFFFF;
+}
+
+.color {
+    font-family: Arial;
+    color: rgb(3, 81, 63);
+    
+}
+
+.tombol {
+    position: relative;
+    margin-top: -20px;
+    padding: 10px;
+    display: inline-block;
+    text-decoration: none;
+    color: #083e39;
+    padding: 3px solid;
+    border: 3px solid #083e39; 
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    border-radius: 10px;
+    transition: 0.5s;
+    overflow: hidden;
+
+}
+
+.tombol:hover {
+    background: #083e39;
+    color: #ffffff;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #083e39, 0 0 15px #083e39, 0 0 25px #083e39, 0 0 50 #083e39;
+}
+
+.ngatur {
+    top: 20px;
+    position: absolute;
+    left: 1050px;
+}
